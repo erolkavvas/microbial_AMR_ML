@@ -1,0 +1,1 @@
+./raxmlHPC-AVX-v8/raxml -m BINCAT -p 12345 -V -s rxml_input_binary.phy -n tb_raxml_out -T 3
