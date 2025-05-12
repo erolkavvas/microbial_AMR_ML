@@ -3,7 +3,7 @@ Computational platform applied to large-scale _M. tuberculosis_ antimicrobial re
 
 > <b>ES. Kavvas</b>, E. Catoui, N. Mih, JT. Yurkovich, Y. Seif, N. Dillon, D. Heckmann, A. Anand, L. Yang, V. Nizet, JM. Monk, BO. Palsson <a href="https://rdcu.be/9rHj">Machine learning and structural analysis of <i>Mycobacterium tuberculosis</i> pan-genome identifies genetic signatures of antibiotic resistance</a>, <i>Nature Communications</i>, (2018) 9:4306
 
-![alt text](http://erolkavvas.com/SUPP3_workflow.png "Logo Title Text 1")
+![model][image-2]
 
 
 Installation
@@ -64,3 +64,5 @@ The following dataframes are required inputs for the computational platform.
 
 - patsy [https://patsy.readthedocs.io/en/latest/] - for logistic regression modeling.
 - entropy_estimators.py [https://github.com/gregversteeg/NPEET] - for pairwise association analysis.
+
+[image-2]:	/model-overview.png?raw=true
